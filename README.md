@@ -55,3 +55,15 @@ The dashboard enables stakeholders to:
 - Monitor churn and revenue risk in real time
 - Identify high-risk customer segments
 - Make data-driven retention decisions
+
+if you have any doubts contact me
+
+Name: praveen k
+
+phone: 8825870266
+
+Email: praveenkicha01@gmail.com
+
+GitHub: https://github.com/Praveenmarshal
+
+LinkedIn: https://www.linkedin.com/in/praveen-kannan-6862382a2
