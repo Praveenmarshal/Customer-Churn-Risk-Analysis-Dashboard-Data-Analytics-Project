@@ -56,7 +56,7 @@ The dashboard enables stakeholders to:
 - Identify high-risk customer segments
 - Make data-driven retention decisions
 
-if you have any doubts contact me
+If you have feedback or suggestions, feel free to connect.
 
 Name: praveen k
 
